@@ -1,3 +1,6 @@
+**Language Note:** 
+This application's user interface is in Spanish as it was developed for a Spanish-speaking academic context. The codebase and documentation follow English conventions for broader accessibility.
+
 # Juego de la Vida (Game of Life)
 
 A Java implementation of **Conway's Game of Life**, a cellular automaton simulation. This project is an educational assignment that demonstrates object-oriented programming principles and the classic cellular automaton algorithm.
@@ -76,7 +79,7 @@ This implementation includes:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/JuegoDeLaVida.git
+   git clone https://github.com/polhm25/JuegoDeLaVida.git
    cd JuegoDeLaVida
    ```
 
